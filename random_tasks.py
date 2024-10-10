@@ -1,7 +1,6 @@
 import random
 
 assignment = []
-
 employees = []
 
 # prompting the user to input the assignments needed to be distributed
